@@ -1,3 +1,12 @@
+#PyCharm specific
+.idea/
+# all the files from .idea, but workspace.xml
+*.*
+!workspace.xml
+
+# all the .iml file from any modules
+*.iml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
